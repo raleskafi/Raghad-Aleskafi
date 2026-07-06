@@ -4,7 +4,7 @@
 
 # Hi, I'm Raghad 👋
 
-### Programming Student • Software Developer • Bahrain 🇧🇭
+### Programming Student | Software Engineer | Full-stuck Developer
 
 Passionate about building modern applications, exploring new technologies, and continuously improving my skills through real-world projects.
 
@@ -12,7 +12,7 @@ Passionate about building modern applications, exploring new technologies, and c
 
 ---
 
-##  Tools & Technologies
+## 💻 Tech Stack 
 
 <div align="center">
 
@@ -22,7 +22,7 @@ Passionate about building modern applications, exploring new technologies, and c
 
 
 
-# 📫 Connect With Me
+## 🌐 Reach Out
 
 <div align="center">
 
