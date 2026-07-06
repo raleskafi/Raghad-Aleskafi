@@ -1,12 +1,13 @@
 <div align="center">
 
+# Hi, I'm Raghad 👋
+### Programming Student | Software Engineer | Full-stuck Developer
+#### Passionate about building modern applications, exploring new technologies, and continuously improving my skills through real-world projects.
+
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Uwd3VwaDRhZWQ2dnVjYzNnMXdrcnJ5ejFsNDQ5eWRreHdlYzh0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PSqwBQHGbsQurQbW2u/giphy.gif" width="80%" />
 
-# Hi, I'm Raghad 👋
 
-### Programming Student | Software Engineer | Full-stuck Developer
 
-Passionate about building modern applications, exploring new technologies, and continuously improving my skills through real-world projects.
 
 </div>
 
