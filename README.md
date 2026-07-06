@@ -22,18 +22,12 @@
 </div>
 
 
-
 ## 🌐 Reach Out
 
 <div align="center">
 
-
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/raghad-aleskafi-93b578398/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1GstooDuQAywg3j0IP6sgg%3D%3D)" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
+<a href="https://github.com/RaghadAlesakfi" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/raghad-aleskafi-93b578398/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
 
 </div>
 
